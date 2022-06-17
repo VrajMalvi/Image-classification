@@ -15,3 +15,10 @@ Key Features of CIFAR-10:
 Here in this program i have build 2 python files, one for model creation and training and other for prediction.
 
 Objective of the program is to find the corract class of image which is deer. 
+
+# to run 
+first execute command in Cifar_10_classification_model_building_and_saving.ipynb file 
+
+# now you have saed .h5 file so you dont need to run model incase of same network structue just load .h5 file similar to second file
+to load model run file : Model_accuracy,_Loading_model_and_Prediction.ipynb
+## in above file i have loaded the model, predict the image class and find the accuracy of model
